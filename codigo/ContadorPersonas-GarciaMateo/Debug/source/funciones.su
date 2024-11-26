@@ -1,0 +1,6 @@
+../source/funciones.c:11:6:init_mcu	8	static
+../source/funciones.c:15:5:leerPulsacion	8	static
+../source/funciones.c:22:5:valorContador	8	static
+../source/funciones.c:32:5:valorLimite	8	static
+../source/funciones.c:36:6:abrir	8	static
+../source/funciones.c:42:6:cerrar	8	static

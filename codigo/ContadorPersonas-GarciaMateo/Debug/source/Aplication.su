@@ -1,0 +1,2 @@
+../source/Aplication.c:19:6:LPC_Init	8	static
+../source/Aplication.c:35:6:GPIO_Init	8	static

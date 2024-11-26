@@ -1,0 +1,11 @@
+../source/SYSCON_FW.c:19:6:BoardClockRUN	8	static
+../source/SYSCON_FW.c:31:6:ClockSetFroOscFREQ	16	static
+../source/SYSCON_FW.c:35:6:PowerDisablePD	16	static
+../source/SYSCON_FW.c:39:6:CLOCK_SetFroOutClkSrc	16	static
+../source/SYSCON_FW.c:51:6:CLOCK_Select	16	static
+../source/SYSCON_FW.c:56:6:CLOCK_InitSystemPll	32	static
+../source/SYSCON_FW.c:83:10:CLOCK_GetSystemPLLInClockRate	16	static
+../source/SYSCON_FW.c:101:10:CLOCK_GetFroFreq	16	static
+../source/SYSCON_FW.c:124:10:FindSyestemPllPsel	24	static
+../source/SYSCON_FW.c:141:6:CLOCK_SetMainClkSrc	24	static
+../source/SYSCON_FW.c:166:6:CLOCK_SetCoreSysClkDiv	16	static

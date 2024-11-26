@@ -1,0 +1,4 @@
+../source/GPIO_SW.c:21:9:GetUserKEY	8	static
+../source/GPIO_SW.c:48:9:GetInput	8	static
+../source/GPIO_SW.c:64:9:GetInputSENSORSALIDA	8	static
+../source/GPIO_SW.c:82:9:GetInputSENSORENTRADA	8	static

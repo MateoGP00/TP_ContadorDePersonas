@@ -1,0 +1,3 @@
+../source/estados.c:8:11:f_boton	16	static
+../source/estados.c:19:11:f_puertaCerrada	16	static
+../source/estados.c:32:11:f_puertaAbierta	16	static

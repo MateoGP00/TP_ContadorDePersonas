@@ -1,0 +1,4 @@
+../source/SysTick_FW.c:19:6:SysTick_Init	8	static
+../source/SysTick_FW.c:34:6:SysTick_Off	8	static
+../source/SysTick_FW.c:47:6:SysTick_Set	16	static
+../source/SysTick_FW.c:61:6:SysTick_Handler	8	static

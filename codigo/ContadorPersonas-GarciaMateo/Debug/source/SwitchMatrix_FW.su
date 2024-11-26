@@ -1,0 +1,4 @@
+../source/SwitchMatrix_FW.c:22:6:SWM	24	static
+../source/SwitchMatrix_FW.c:38:6:SWM_PinEnable	24	static
+../source/SwitchMatrix_FW.c:54:6:SWM_Enable	8	static
+../source/SwitchMatrix_FW.c:67:6:SWM_Disable	8	static
