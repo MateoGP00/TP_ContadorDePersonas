@@ -11,4 +11,5 @@ Se trata de un sistema que detecta la cantidad de personas que ingresan y egresa
  - __Lim__: limite máximo preestablecido
 
 https://github.com/user-attachments/assets/366223bb-4dd3-47db-aa5b-9b9409bec085
+
 Los pulsadores se pueden reemplazar con sensores infrarrojos FC-51 que tambien funcionan en activo bajo, estos requieren alimentarse a 3,5/5v
